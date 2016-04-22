@@ -1,0 +1,161 @@
+[
+    {
+        "outputFile": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1118,
+                        "endLine": 37,
+                        "endColumn": 19,
+                        "endOffset": 1957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 57,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 57,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 53,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endColumn": 53,
+                        "endOffset": 1113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endColumn": 59,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endColumn": 59,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 73,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 73,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 83,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 83,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 117,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endColumn": 117,
+                        "endOffset": 1011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 47,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1016,
+                        "endColumn": 47,
+                        "endOffset": 1059
+                    }
+                }
+            }
+        ]
+    }
+]

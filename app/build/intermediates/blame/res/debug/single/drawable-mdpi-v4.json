@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/froggy.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/froggy.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/humor.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/humor.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/communication.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/communication.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/exercise.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/exercise.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/nutrition.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/nutrition.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/environment.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/environment.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/space.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/space.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/vision_board.png",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/vision_board.png"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/charlie_sheen.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/charlie_sheen.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/peaceful_warrior.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/peaceful_warrior.jpg"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/relationships.jpg",
+        "source": "/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/res/drawable-mdpi/relationships.jpg"
+    }
+]

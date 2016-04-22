@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e25781deb70220b6415549d8e43cbcdb5e57491b">
+        <dex dex="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_42c99954413bdcfff314b2b7cef47211ee3a5a06/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apsMac1/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha2/support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-alpha2_8113dd4674855d73d2bc9b21712b35adbceeb17b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4bf4c206611ff181fdfe97b2e54829db4b06100e">
+        <dex dex="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d9007ce961ae9a044252bf352c1d5cdd4dca9adf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-alpha2_e49a89695020a498fbb7c2eade945b29514e504d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="/Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-alpha2_208821ea722b9fd36d0b91e526c1ecd04ff14748/classes.dex" />
+    </item>
+
+</items>

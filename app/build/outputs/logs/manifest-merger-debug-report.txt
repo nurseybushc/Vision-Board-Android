@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-35:12
+	xmlns:android
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:11-69
+	package
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:18:5-54
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:5-34:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha2] /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:18-50
+	android:allowBackup
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:24:9-79
+activity#com.example.android.effectivenavigation.MainActivity
+ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:27:9-32:20
+	android:label
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:27:48-80
+	android:name
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:27:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:24.0.0-alpha2] /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apsMac1/Documents/cse494/EffectiveNavigation/app/src/main/AndroidManifest.xml

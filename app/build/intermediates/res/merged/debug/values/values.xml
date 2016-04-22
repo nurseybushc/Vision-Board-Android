@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vision_board_items">
+        <item>I will meditate for 10 mins before I start my workout</item>
+        <item>I will replace all my cleaners with natural ingredients like water and vinegar.</item>
+        <item>I will try to get more sleep, exercise outside sometimes and bingewatch netflix.</item>
+        <item>I will log what I eat to be more conscious of the food I am consuming.</item>
+        <item>I will do at least 5 stretches before and after I workout to warmup and cool down my body.</item>
+        <item>I will try to not be passive aggressive or sarcastic.</item>
+        <item>I will pay more attention to the feelings of my friends, family and my girlfriend.</item>
+        <item>Humor</item>
+        <item>Sometimes you have to lose your mind before you come to your senses.</item>
+
+    </string-array>
+    <string name="app_name">Effective Navigation</string>
+    <string name="author">Chance Nursey-Bush</string>
+    <string name="demo_collection">Demo Collection</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="meditation">I will keep myself honest with my humor and be able to adapt to any situation.</string>
+    <string name="vision">Vision Board</string>
+</resources>
